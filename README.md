@@ -6,10 +6,12 @@ it can show wordbook, test their knowledge with a quiz, and add new words and ph
  ## How to use the project
 
 This program has four big frameworks.
+
   `printf("1. List all wordbooks\n") ;
 	printf("2. Show the words in a wordbook\n") ;
 	printf("3. Test with a wordbook\n") ;
 	printf("4. Add more voca\n") ;`
+ 
  Like the code above, you can literally study a variety of things.
  
  ## why make this program

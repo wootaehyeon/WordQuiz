@@ -6,8 +6,8 @@ it can show wordbook, test their knowledge with a quiz, and add new words and ph
  ## How to use the project
 
 This program has four big frameworks.
+![aa](https://github.com/wootaehyeon/WordQuiz/assets/92563560/d04a5c8c-d75b-4c7f-b100-9ddc7e72a1be)
 
-![Screenshot of first page]([C:\Users\samsung\OneDrive\바탕 화면\aa.png](https://myoctocat.com/assets/images/base-octocat.svg))
   ``printf("1. List all wordbooks\n") ; 
 	printf("2. Show the words in a wordbook\n") ;
 	printf("3. Test with a wordbook\n") ;

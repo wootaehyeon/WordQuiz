@@ -7,6 +7,7 @@ it can show wordbook, test their knowledge with a quiz, and add new words and ph
 
 This program has four big frameworks.
 
+![Screenshot of first page](C:\Users\samsung\OneDrive\바탕 화면\aa.png)
   ``printf("1. List all wordbooks\n") ; 
 	printf("2. Show the words in a wordbook\n") ;
 	printf("3. Test with a wordbook\n") ;
